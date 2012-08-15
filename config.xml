@@ -3,6 +3,9 @@
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
+<gap:splash src="images/splash.png" gap:platform="winphone" />
+<icon src="images/62.png" gap:platform="winphone" />
+<icon src="images/173.png" gap:platform="winphone" gap:role="background" />
 
 	<name>Fitness PRO!</name>
 
